@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freelancer-amirhamza
 - 👀 I’m interested in freelancing
-- 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on web developer
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate with web developer
 - 📫 How to reach me ...
 
 <!---
