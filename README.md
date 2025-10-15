@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freelancer-amirhamza
+- 👋 # Hi, I’m Amir Hamza
 - 👀 I’m interested in freelancing
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate with web developer
